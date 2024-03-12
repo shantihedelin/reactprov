@@ -1,0 +1,15 @@
+@tailwind components;
+@tailwind utilities;
+
+.dark {
+  
+    background-color: rgb(78, 53, 70);
+    color: white;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+  }
